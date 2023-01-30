@@ -1,0 +1,3 @@
+test.md: README.md
+	@echo "This is my README file"
+	
